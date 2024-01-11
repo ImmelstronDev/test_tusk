@@ -15,7 +15,10 @@ const FirstSection: React.FC = () => {
         <div className="flex flex-col gap-8">
           <div className=" flex flex-col max-md:items-center">
             <div className="text-2xl font-semibold tracking-tighter dark:text-blue max-md:text-[46px] max-md:tracking-tight">
-              Crypto payments for
+              Crypto
+            </div>
+            <div className="text-2xl font-semibold tracking-tighter dark:text-blue max-md:text-[46px] max-md:tracking-tight">
+              payments for
             </div>
             <div className="text-2xl font-semibold tracking-tighter text-blue max-md:text-[46px] max-md:tracking-tight">
               telegram bots
